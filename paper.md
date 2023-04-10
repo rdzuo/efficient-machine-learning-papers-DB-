@@ -1,5 +1,3 @@
-
-
 ## SIGMOD 
 ### 2023
 
@@ -30,9 +28,9 @@ VF^2Boost: Very Fast Vertical Federated Gradient Boosting for Cross-Enterprise L
 
 ALG: Fast and Accurate Active Learning Framework for Graph Convolutional Networks
 
-##VLDB
+## VLDB
 
-###2023
+### 2023
 
 Coresets over Multiple Tables for Feature-rich and Data-efficient Machine Learning
 
@@ -42,7 +40,7 @@ FastFlow: Accelerating Deep Learning Model Training with Smart Offloading of Inp
 
 Galvatron: Efficient Transformer Training over Multiple GPUs Using Automatic Parallelism
 
-###2022
+### 2022
 
 COMET: A Novel Memory-Efficient Deep Learning Training Framework by Using Error-Bounded Lossy Compression
 
@@ -57,7 +55,7 @@ ByteGNN: Efficient Graph Neural Network Training at Large Scale
 Hyper-Tune: Towards Efficient Hyper-parameter Tuning at Scale
 
 
-###2021
+### 2021
 
 ParaX: Boosting Deep Learning for Big Data Analytics on Many-Core CPUs
 
