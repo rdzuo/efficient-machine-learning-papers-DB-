@@ -1,1 +1,1 @@
-# efficient-machine-learning-papers-DB-
+This repository records some SOTA methods on efficient machine learning.
