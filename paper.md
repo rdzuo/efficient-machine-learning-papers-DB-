@@ -63,3 +63,21 @@ Towards an Optimized GROUP BY Abstraction for Large-Scale Machine Learning
 
 
 
+## ICDE
+
+### 2022
+PSP: Progressive Space Pruning for Efficient Graph Neural Architecture Search
+
+TSplit: Fine-grained GPU Memory Management for Efficient DNN Training via Tensor Splitting
+
+HybridGNN: Learning Hybrid Representation in Multiplex Heterogeneous Networks
+
+Dynamic Model Tree for Interpretable Data Stream Learning
+
+### 2021
+An Efficient Approach for Cross-Silo Federated Learning to Rank
+
+HuGE: An Entropy-driven Approach to Efficient and Scalable Graph Embeddings
+
+Efficient Federated-Learning Model Debugging
+
