@@ -2,7 +2,7 @@
 ### 2023
 
 ST4ML: Machine Learning Oriented Spatio-Temporal Data Processing at Scale
-  Kaiqi Liu (Nanyang Technological University)*; Panrong Tong (Alibaba Group); Mo Li (Nanyang Technological University); Yue Wu (Damo Academy, Alibaba Group); Jianqiang Huang (Alibaba Group)
+/Kaiqi Liu (Nanyang Technological University)*; Panrong Tong (Alibaba Group); Mo Li (Nanyang Technological University); Yue Wu (Damo Academy, Alibaba Group); Jianqiang Huang (Alibaba Group)
 
 
 Automating and Optimizing Data-Centric What-If Analyses on Native Machine Learning Pipelines
