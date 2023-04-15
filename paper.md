@@ -16,6 +16,15 @@ Chengliang Chai (Beijing Institute of Technology); Jiabin Liu (Tsinghua Universi
 #### Scalable and Efficient Full-Graph GNN Training for Large Graphs  
 Xinchen Wan (HKUST); Kaiqiang Xu (HKUST); Xudong Liao (HKUST); Yilun Jin (The Hong Kong University of Science and Technology); Kai Chen (HKUST); Xin Jin (Peking University);
 
+#### DeltaBoost: Gradient Boosting Decision Trees with Efficient Machine Unlearning
+Zhaomin Wu (National University of Singapore); Junhui Zhu (National University of Singapore); Qinbin Li (National University of Singapore); Bingsheng He (National University of Singapore);
+
+#### DUCATI: A Dual-Cache Training System for Graph Neural Networks on Giant Graphs with GPU  
+Xin Zhang (Hong Kong University of Science and Technology); Yanyan Shen (Shanghai Jiao Tong University); Yingxia Shao (BUPT); Lei Chen (Hong Kong University of Science and Technology);
+
+#### Caerus: A Caching-based Framework for Scalable Temporal Graph Neural Networks  
+Yiming Li (Hong Kong University of Science and Technology)*; Yanyan Shen (Shanghai Jiao Tong University); Lei Chen (Hong Kong University of Science and Technology); Mingxuan Yuan (Huawei)
+
 #### EARLY: Efficient and Reliable Graph Neural Network for Dynamic Graphs  
 Haoyang Li (The Hong Kong University of Science and Technology); Lei Chen (Hong Kong University of Science and Technology);
 
@@ -23,6 +32,19 @@ Haoyang Li (The Hong Kong University of Science and Technology); Lei Chen (Hong 
 Kaihao Ma ( The Chinese University of Hong Kong); Xiao Yan (Southern University of Science and Technology)*; Zhenkun Cai (The Chinese University of Hong Kong); Yuzhen Huang (Meta); Yidi Wu (Meta Platforms, Inc); James Cheng (CUHK)
 
 ### 2022
+
+#### Nautilus: An Optimized System for Deep Transfer Learning over Evolving Training Datasets  
+Supun C Nakandala (University of California, San Diego)*; Arun Kumar (University of California, San Diego)
+
+#### Where Is My Training Bottleneck? Hidden Trade-Offs in Deep Learning Preprocessing Pipelines  
+Alexander Isenko (Technical University of Munich)*; Ruben Mayer (Technical University of Munich); Jeffery Jedele (Technical University of Munich); Hans-Arno Jacobsen (University of Toronto)
+
+#### Complaint-Driven Training Data Debugging at Interactive Speeds  
+Lampros Flokas (Columbia University)*; Weiyuan Wu (Simon Fraser University); Yejia Liu (Simon Fraser University); Jiannan Wang (Simon Fraser University); Nakul Verma (Columbia University); Eugene Wu (Columbia University)
+
+
+#### HET-GMP: a Graph-based System Approach to Scaling Large Embedding Model Training  
+Xupeng Miao (Peking University)*; Yining Shi (Peking University); Hailin Zhang (Peking University); Xin Zhang (Peking University); Xiaonan Nie (Peking University); Zhi Yang (Peking University); Bin Cui (Peking University)
 
 #### Camel: Managing Data for Efficient Stream Learning  
 Yiming Li (Hong Kong University of Science and Technology)*; Yanyan Shen (Shanghai Jiao Tong University); Lei Chen (Hong Kong University of Science and Technology)
