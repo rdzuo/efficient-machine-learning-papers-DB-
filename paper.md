@@ -2,18 +2,24 @@
 ### 2023
 
 ST4ML: Machine Learning Oriented Spatio-Temporal Data Processing at Scale
+Kaiqi Liu (Nanyang Technological University)*; Panrong Tong (Alibaba Group); Mo Li (Nanyang Technological University); Yue Wu (Damo Academy, Alibaba Group); Jianqiang Huang (Alibaba Group)
+
 
 Automating and Optimizing Data-Centric What-If Analyses on Native Machine Learning Pipelines
-
-In-Database Machine Learning with CorgiPile: Stochastic Gradient Descent without Full Data Shuffle
+Stefan Grafberger (University of Amsterdam); Paul Groth (University of Amsterdam); Sebastian Schelter (University of Amsterdam);
 
 GoodCore: Coreset Selection over Incomplete Data for Data-effective and Data-efficient Machine Learning
+Chengliang Chai (Beijing Institute of Technology); Jiabin Liu (Tsinghua University); Nan Tang (Qatar Computing Research Institute, HBKU); Ju Fan (Renmin University of China); dongjing miao (哈尔滨工业大学); Jiayi Wang (Tsinghua University); Yuyu Luo (Tsinghua University); Guoliang Li (Tsinghua University);
 
 Scalable and Efficient Full-Graph GNN Training for Large Graphs
+Xinchen Wan (HKUST); Kaiqiang Xu (HKUST); Xudong Liao (HKUST); Yilun Jin (The Hong Kong University of Science and Technology); Kai Chen (HKUST); Xin Jin (Peking University);
 
 EARLY: Efficient and Reliable Graph Neural Network for Dynamic Graphs
+Haoyang Li (The Hong Kong University of Science and Technology); Lei Chen (Hong Kong University of Science and Technology);
 
 FEC: Efficient Deep Recommendation Model Training with Flexible Embedding Communication
+Kaihao Ma ( The Chinese University of Hong Kong); Xiao Yan (Southern University of Science and Technology)*; Zhenkun Cai (The Chinese University of Hong Kong); Yuzhen Huang (Meta); Yidi Wu (Meta Platforms, Inc); James Cheng (CUHK)
+
 ### 2022
 
 Camel: Managing Data for Efficient Stream Learning
