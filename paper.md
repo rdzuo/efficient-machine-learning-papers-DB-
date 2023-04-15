@@ -4,6 +4,8 @@
 #### ST4ML: Machine Learning Oriented Spatio-Temporal Data Processing at Scale  
 Kaiqi Liu (Nanyang Technological University)*; Panrong Tong (Alibaba Group); Mo Li (Nanyang Technological University); Yue Wu (Damo Academy, Alibaba Group); Jianqiang Huang (Alibaba Group)
 
+#### FlexMoE: Scaling Large-scale Sparse Pre-trained Model Training via Dynamic Device Placement
+Xiaonan Nie (Peking University)*; Xupeng Miao (Carnegie Mellon University); Zilong Wang (Microsoft); Zichao Yang (Carnegie Mellon University); Jilong Xue (Microsoft Research); Lingxiao Ma (Microsoft Research); Gang Cao (BAAI); Bin Cui (Peking University)
 
 #### Automating and Optimizing Data-Centric What-If Analyses on Native Machine Learning Pipelines  
 Stefan Grafberger (University of Amsterdam); Paul Groth (University of Amsterdam); Sebastian Schelter (University of Amsterdam);
@@ -22,10 +24,11 @@ Kaihao Ma ( The Chinese University of Hong Kong); Xiao Yan (Southern University 
 
 ### 2022
 
-Camel: Managing Data for Efficient Stream Learning
+#### Camel: Managing Data for Efficient Stream Learning  
+Yiming Li (Hong Kong University of Science and Technology)*; Yanyan Shen (Shanghai Jiao Tong University); Lei Chen (Hong Kong University of Science and Technology)
 
-In-Database Machine Learning with CorgiPile: Stochastic Gradient Descent without Full Data Shuffle
-
+#### In-Database Machine Learning with CorgiPile: Stochastic Gradient Descent without Full Data Shuffle  
+Lijie Xu (ETH Zurich)*; Shuang Qiu (University of Chicago); Binhang Yuan (ETH Zurich); Jiawei Jiang (ETH Zurich); Cedric Renggli (ETH Zurich); Shaoduo Gan (ETH Zurich); Kaan Kara (ETHZ); Guoliang Li (Tsinghua University); Ji Liu (Kwai Inc.); Wentao Wu (Microsoft Research); Jieping Ye (Didi Chuxing & University of Michigan); Ce Zhang (ETH)
 ### 2021
 
 Efficient Deep Learning Pipelines for Accurate Cost Estimations Over Large Scale Query Workload
