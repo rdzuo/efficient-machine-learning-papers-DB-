@@ -59,6 +59,7 @@ Alexander Renz-Wieland (Technische Universität Berlin)*; Rainer Gemulla (Univer
 Peizhen Guo (Yale University)*; Bo Hu (Yale University); Wenjun Hu (Yale University)
 
 #### Lightweight and Accurate Cardinality Estimation by Neural Network Gaussian Process  
+Kangfei Zhao (The Chinese University of Hong Kong)*; Jeffrey Xu Yu (Chinese University of Hong Kong); Zongyan He (The Chinese University of Hong Kong); Rui Li (The Chinese University of Hong Kong); Hao Zhang (Chinese University of Hong Kong)
 
 ### 2021
 
