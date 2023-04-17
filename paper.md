@@ -63,10 +63,13 @@ Peizhen Guo (Yale University)*; Bo Hu (Yale University); Wenjun Hu (Yale Univers
 ### 2021
 
 #### Efficient Deep Learning Pipelines for Accurate Cost Estimations Over Large Scale Query Workload  
+Johan Zhi Kang Kok (Grab)*; Gaurav Gaurav (Grab); Sienyi Tan (Grab); Feng Cheng (Grab); Shixuan Sun (National University of Singapore); Bingsheng He (National University of Singapore)
 
 #### VF^2Boost: Very Fast Vertical Federated Gradient Boosting for Cross-Enterprise Learning  
+Fangcheng Fu (Peking University)*; Yingxia Shao (BUPT); Lele Yu (Peking University); Jiawei Jiang (ETH Zurich); Huanran Xue (Tencent Inc.); Yangyu Tao (Tencent); Bin Cui (Peking University)
 
 #### ALG: Fast and Accurate Active Learning Framework for Graph Convolutional Networks  
+Wentao Zhang (Peking University)*; Yu Shen (Peking University); Yang Li (Peking University); Lei Chen (Hong Kong University of Science and Technology); Zhi Yang (Peking University); Bin Cui (Peking University)
 
 ## VLDB
 
@@ -100,7 +103,7 @@ Yassaman Ebrahimzadeh Maboud (University of British Columbia)
 Divya Mahajan (Microsoft)*
 Prashant Nair (University of British Columbia)
 
-#### HET: Scaling out Huge Embedding Model Training via Cache-enabled Distributed Framework  
+#### HET: Scaling out Huge Embedding Model Training via Cache-enabled Distributed Framework    
 Xupeng Miao (Peking University)*
 Hailin Zhang (Peking University)
 Yining Shi (Peking University)
@@ -109,7 +112,15 @@ Zhi Yang (Peking University)
 Yangyu Tao (Tencent)
 Bin Cui (Peking University)
 
-#### COMET: A Novel Memory-Efficient Deep Learning Training Framework by Using Error-Bounded Lossy Compression
+#### COMET: A Novel Memory-Efficient Deep Learning Training Framework by Using Error-Bounded Lossy Compression  
+Sian Jin (Washington State University)
+Chengming Zhang (Washington State University)
+Xintong Jiang (McGill University)
+Yunhe Feng (University of Washington)
+Hui Guan (University of Massachusetts, Amherst)
+Guanpeng Li (University of Iowa)
+Shuaiwen Song (University of Sydney)
+Dingwen Tao (Washington State University)*
 
 #### TGL: A General Framework for Temporal GNN Training onBillion-Scale Graphs  
 hongkuan zhou (University of Southern California)*
